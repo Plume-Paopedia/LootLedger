@@ -239,7 +239,7 @@ Dans les tavernes brumeuses de Hurlevent et les auberges enfumées d'Orgrimmar, 
 ║     🌟 Au service de la communauté française                ║
 ║     ⚔️ Vétéran des serveurs Classic                         ║
 ║                                                              ║
-║  💌 Contact: Whisper à Plume.pao sur Discord                         ║
+║  💌 Contact: Whisper à Plume.pao sur Discord                ║
 ║  🐛 Bugs & Suggestions: Toujours les bienvenus !            ║
 ║  🤝 Collaboration: Ouvert aux contributeurs                 ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -262,4 +262,4 @@ Dans les tavernes brumeuses de Hurlevent et les auberges enfumées d'Orgrimmar, 
                     ⚔️ POUR AZEROTH ! ⚔️
               🌟 Que vos butins soient légendaires ! 🌟
                         ~Plume, 2025~
-```ic
+```
