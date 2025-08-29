@@ -1,0 +1,10 @@
+## Interface: 11404
+## Title: LootLedger
+## Notes: Journal complet des butins et suivi des golds - Addon créé par Plume
+## Author: Plume
+## Version: 1.0
+## SavedVariablesPerCharacter: LootLedgerDB
+
+Core.lua
+Events.lua
+UI.lua
